@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x12d1C4DCEA07936768e329fd46bDc8156A162b38",
+  "SCAN_LINK": "https://polygonscan.com/address/0x12d1c4dcea07936768e329fd46bdc8156a162b38",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Mix Faces Club",
+  "SYMBOL": "MFC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/mix-faces-club",
+  "SHOW_BACKGROUND": true
+}
